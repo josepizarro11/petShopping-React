@@ -1,0 +1,49 @@
+{
+  "produtos":[
+      {
+          "id":1,
+          "url":"https://http2.mlstatic.com/D_NQ_NP_805835-MLB49716865492_042022-O.jpg",
+          "name": "Máquina Tosa Profissional Arc 2 Bivolt -precision Edge",
+          "description":"Maquina Profissional indicada para realizar a  finalização de tosa em cães e gatos" ,
+          "price":"R$ 920"
+
+
+      },
+      {
+          "id":2,
+          "url":"https://http2.mlstatic.com/D_NQ_NP_2X_670089-MLB52324530220_112022-F.webp",
+          "name": "Combo Revolution 15mg Cães e Gatos 2,5kg 3 Pipetas",
+          "description":"Caixa com 3 pipetas – Para cães e gatos– Acima de 6 semanas de idade – Quebra o ciclo das pulgas na primeira aplicação;  – Eficaz no tratamento, prevenção e controle contra pulgas; Auxilia o controle de carrapatos; – Auxilia a desinfestação do ambiente; Possibilita que o animal se molhe ou tome banho após duas horas da aplicação" ,
+          "price":"R$ 172,75"
+      
+      },
+      {
+        "id":3,
+        "url":"https://images.bitcao.com.br/media/catalog/product/cache/4/image/c8f024b3a9822e31c36b06e71b7d32c8/c/o/condicionador-virbac-episoothe-peles-sensiveis-e-irritadas.jpg",
+        "name": "Condicionador Virbac Episoothe 500 ml",
+        "description":"Mantenha sempre a pele de seu cão ou gato hidratado com Condicionador Virbac Episoothe para Cães e Gatos. Ele reestabelece o equilíbrio cutâneo e mantém a barreira funcional da pele. Com sua formulação suave permite o uso frequente sem alterar a integridade da pele ou pelo. " ,
+        "price":"R$ 157,75"
+      },
+      {
+        "id":4,
+        "url":"https://cdn.awsli.com.br/600x700/2336/2336079/produto/145975754/cet-higiene-oral-pasta-enzimatica-kit-necessaire-escova-virbac-44e6dd11.jpg",
+        "name": "CET Higiene Oral Pasta Enzimatica + Kit Necessaire Escova Virbac",
+        "description":"Pasta enzimática para a higiene dental e controle de tártaro em cães e gatos. " ,
+        "price":"R$ 115 "
+      },
+      {
+        "id":5,
+        "url":"https://cdn.awsli.com.br/800x800/2336/2336079/produto/153553547/769e96f047.jpg",
+        "name": "Tapete Higiênico Cães e Gatos Mimo Pads 60x55 cm 30 un Super Ultra Good",
+        "description":"Um mimo pra você, um mimo pra ele! Equilíbrio, amor, respeito e liberdade para as pessoas e seus pets. Tapete higiênico ultra absorvente." ,
+        "price":"R$  80,77"
+      },
+      {
+        "id":6,
+        "url":"data:image/jpeg;base64,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",
+        "name": "Óleo de Girassol Ozonizado Ohzon 15 ml – Câes e Gatos",
+        "description":"A base do tratamento são os Óleos Ozonizados de Girassol, produzidos com alta tecnologia em processo de ozonização para manter as propriedades especiais do ozônio, garantindo potencialização de oxigênio, aumento da restauração das células da pele e pelos, o principal benefício vem da ação antibacteriana do ozônio. A ozonoterapia é a forma mais adequada de garantir que essas bactérias sejam eliminadas e de tratando os pelos.As aplicações de ozônio também evitam doenças bastante comuns, como a dermatite e a foliculite." ,
+        "price":"R$ 49,90"
+      }
+  ]
+}

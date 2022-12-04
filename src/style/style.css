@@ -1,0 +1,108 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  margin: 0%;
+  padding: 0;
+  
+}
+
+
+.imagen {
+  margin: auto;
+  max-width: 100%;
+  
+
+}
+
+
+.titulo {
+  margin-top: 10px;
+  text-transform: capitalize;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  text-align: center;
+
+
+
+}
+
+.card {
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgb(0 0 0 / 15%);
+  padding: 24px 32px 32px 32px;
+  margin-top: 20px;
+  color:rgb(88, 90, 107);
+
+
+}
+
+.home {
+
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-gap: 3rem;
+  width: 100%;
+  max-width: 1200px;
+  margin: 25px auto;
+  margin-bottom: 4rem;
+ 
+  
+
+}
+.login {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  gap: 20px;
+}
+
+.cabeçalho {
+  height: 120px;
+  display: flex;
+  background-image: linear-gradient(110deg,
+      rgba(54, 54, 50, 0.8),
+      rgba(126, 126, 200, 0.05)),
+    url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQViwkZCjW7i-HZKSZY9AR15DFlckLryu6f53cKoLOGYaSdlHnrj-R-E5aGSS7c4RyejsI&usqp=CAU
+);
+align-items: center;
+justify-content: space-around;
+}
+
+
+  .pet-home{
+    text-decoration: none;
+    color:rgb(26, 14, 26);
+    font-size: 50px;
+    font-weight: 600;
+  }
+
+  .price{
+    color: green;
+    font-size:x-large;
+    margin-top: 10px;
+  }
+  .buttonCard{
+     background-color:darkblue;;
+     border-color:darkblue;
+     color: cornsilk;
+   padding-inline: 15px;
+     border-radius: 3px;
+     margin-top: 20px;
+  }
+
+  .footer{
+    background-color: rgb(88, 90, 107);
+    padding: 30px;
+
+  }
+  .footer-text{
+    color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
